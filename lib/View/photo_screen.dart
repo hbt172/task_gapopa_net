@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:photo_view/photo_view.dart';
 import 'package:flutter_animated_dialog/flutter_animated_dialog.dart';
-import '../Controller/gallery_controller.dart';
+import '../Controller/photo_controller.dart';
 
 class PhotoScreen extends StatelessWidget {
   PhotoScreen({super.key});
